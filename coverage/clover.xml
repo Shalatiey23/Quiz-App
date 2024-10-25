@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1729859858245" clover="3.2.0">
+  <project timestamp="1729859858246" name="All files">
+    <metrics statements="7" coveredstatements="4" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="1" elements="13" coveredelements="8" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
+    <file name="utils.js" path="/Users/damacm1142/validation/Quiz App/utils.js">
+      <metrics statements="7" coveredstatements="4" conditionals="4" coveredconditionals="3" methods="2" coveredmethods="1"/>
+      <line num="4" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
